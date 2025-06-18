@@ -1,8 +1,7 @@
 # Менеджер-бот федеральной лаборатории
 Ссылка на проект - https://web.telegram.org/k/#@Lira_kdl_bot
 
-![Иллюстрация к проекту](https://github.com/jusijulls/Lira/blob/main/WhatsApp%20Image%202025-06-18%20at%2019.43.47.jpeg?raw=true)
-![Иллюстрация к проекту](https://github.com/jusijulls/Lira/blob/main/WhatsApp%20Image%202025-06-18%20at%2020.10.25.jpeg?raw=true)
+![Иллюстрация к проекту](https://github.com/jusijulls/Lira/blob/main/WhatsApp%20Image%202025-06-18%20at%2019.43.47.jpeg?raw=true)![Иллюстрация к проекту](https://github.com/jusijulls/Lira/blob/main/WhatsApp%20Image%202025-06-18%20at%2020.10.25.jpeg?raw=true)
 ![Иллюстрация к проекту](https://github.com/jusijulls/Lira/blob/main/WhatsApp%20Image%202025-06-18%20at%2020.10.25%20(1).jpeg?raw=true)
 
 ## Описание проекта
